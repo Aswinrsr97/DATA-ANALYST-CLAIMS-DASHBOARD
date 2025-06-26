@@ -3,7 +3,7 @@ This interactive Excel dashboard offers a consolidated view of insurance claim p
 # Project Objective:
 Optimum insurance.co.in wants to create a claim dashboard for the year of 2024 so that Manager can able to convey it to the client name IP Rings
 # Data Used:
-Excel file shared from the client linkedindashboars.xls
+https://github.com/Aswinrsr97/DATA-ANALYST-CLAIMS-DASHBOARD/blob/main/linkedin%20dashboard.xlsx
 # KPI 
 How Much total amound settled?
 How Many claims Settled?
